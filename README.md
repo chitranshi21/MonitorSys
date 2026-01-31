@@ -14,6 +14,8 @@ A real-time system resource monitoring application with a web-based dashboard. M
 - **Auto-reconnection** - Automatic WebSocket reconnection on disconnect
 - **Responsive UI** - Adaptive grid layout with dark theme
 
+<img width="2489" height="875" alt="image" src="https://github.com/user-attachments/assets/3916c683-c6d0-4b5a-8c3d-c2eaf317b9ad" />
+
 ## Tech Stack
 
 **Backend:**
